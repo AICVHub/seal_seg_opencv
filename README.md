@@ -10,11 +10,11 @@ Utilizing computer vision and machine learning technologies, this process automa
 
 
 
-![](result_01.png)
+![](imgs/result_01.png)
 
-![](result_02.png)
+![](imgs/result_02.png)
 
-![](result_03.png)
+![](imgs/result_03.png)
 
 
 
